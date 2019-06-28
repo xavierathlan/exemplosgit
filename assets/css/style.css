@@ -68,3 +68,8 @@ nav a {
 	margin-top: 0;
 	transition-delay: .2s;
 }
+
+h1,h2 {
+	text-align: center;
+	margin-top: 15%;
+} 
